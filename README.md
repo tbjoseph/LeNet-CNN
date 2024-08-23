@@ -35,5 +35,5 @@ conda install tqdm
 ```
 
 ## Dataset Setup
-* Download the CIFAR-10 dataset from CIFAR-10 Dataset and extract it into the code directory.
-* Ensure the data folder cifar-10-batches-py is correctly placed in the project directory to load and preprocess data effectively.
+* Download the CIFAR-10 dataset from [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html) and extract it into the code directory.
+* Ensure the data folder cifar-10-batches-py is placed in the project directory to load and preprocess data effectively.
