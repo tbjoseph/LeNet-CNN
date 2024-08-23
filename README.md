@@ -21,17 +21,16 @@ For other environments:
 ```
 pip install torch
 ```
-Refer to PyTorch Get Started for detailed installation instructions.
+Refer to [PyTorch Get Started](https://pytorch.org/get-started/locally/) for detailed installation instructions.
 
 
-**tqdm**: Install tqdm for progress bars during training and testing:
-```
-pip install tqdm
-```
-or if using Anaconda:
-
+**tqdm**: Install tqdm for progress bars during training and testing. For Anaconda users:
 ```
 conda install tqdm
+```
+For other environments:
+```
+pip install tqdm
 ```
 
 ## Dataset Setup
